@@ -19,7 +19,7 @@ public class Demostracion {
     public String getNombre() {
     return nombre;
     }
-    public String getvalor(){
+    public int getvalor(){
     return valor;
     }
     
