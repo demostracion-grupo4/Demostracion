@@ -11,11 +11,13 @@ package demostracion;
  */
 public class Demostracion {
 
-    /**
-     * @param args the command line arguments
-     */
+    String nombre;
+    int valor;
     public static void main(String[] args) {
-        // TODO code application logic here
+       
+    }
+    public String getNombre() {
+    return nombre;
     }
     
 }
